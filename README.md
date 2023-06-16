@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdenimln&label=Profile%20views&color=0e75b6&style=flat" alt="mdenimln" /> </p>
 
 🌱 I’m currently learning **React js**
-
+🌱 My Partner **Alpin**
 
 📫 How to reach me **denimlnm@gmail.com**
 
