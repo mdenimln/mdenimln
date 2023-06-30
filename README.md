@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **React js**
 
-🌱 My Partner **Alpin**
+
 
 📫 How to reach me **denimlnm@gmail.com**
 
