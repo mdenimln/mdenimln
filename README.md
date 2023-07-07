@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+I'm+Deni+Maulana....;Nice+to+meet+you!&center=true&size=35">
   </a>
 </h1>
-<h4 align="center">A passionate frontend developer from Indonesia</h4>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdenimln&label=Profile%20views&color=0e75b6&style=flat" alt="mdenimln" /> </p>
 
